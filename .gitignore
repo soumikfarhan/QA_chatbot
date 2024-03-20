@@ -4,3 +4,5 @@ vector_db/*
 !vector_db/file.txt
 src/__pycache__
 key.txt
+figures/
+!figures/file.txt
