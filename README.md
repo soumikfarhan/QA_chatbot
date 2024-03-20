@@ -1,2 +1,2 @@
-# QA_chatbot
-A chatbot to help navigating the answer that you may have from detailed resources.
+# benchsci_rdai_engineer
+recruitment test for benchsci R &amp; D AI engineer
